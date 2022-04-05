@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goessoh
 - 👀 I’m interested in Machine Learning and artificial Intelligence
-- 🌱 I’m currently learning statistics for data science and Data explporation and analysis using R and Python
+- 🌱 I’m currently learning statistics for data science and Data exploration and analysis using R and Python
 - 💞️ I’m looking to collaborate on R and Python
 - 📫 How to reach me georgesessoh@gmail.com
 
