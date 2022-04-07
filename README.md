@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @goessoh
 - 👀 I’m interested in Machine Learning and artificial Intelligence
-- 🌱 I’m currently learning statistics for data science and Data exploration and analysis using R and Python
-- 💞️ I’m looking to collaborate on R and Python
-- 📫 How to reach me georgesessoh@gmail.com
+- 🌱 I'm currently working on advanced machine learning projects.
+- 💞️ I'm looking forward to sharing my work and collaborating with fellow data scientists.
+- 📫 How to reach me? georgesessoh@gmail.com
 
 <!---
 goessoh/goessoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
